@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: "Ariel", sans-serif;
+    font-size: 15px;
+    color: #000;
+    background: #fff;
+}
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.button-yellow{
+    display: inline-block;
+    width: 150px;
+    padding: 8px 0;
+    background-color: #ffd500;
+    text-align: center;
+    font-family: 1.2rem;
+}
+.button-outline{
+    display: inline-block;
+    padding: 20px 38px;
+    border: solid 3px #ffd500;
+    background-color: #ffffff;
+}
+.about{
+    padding: 50px 70px;
+    background-color: #8a8a8a;
+    background-image: url("../img/blueprints-two.jpg");
+    background-size: cover;
+    background-position: center;
+}
